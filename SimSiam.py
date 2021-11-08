@@ -62,7 +62,7 @@ class ImagePretraining(nn.Module):
             dim=128,
             depth=15,
             ff_mult=6)
-        backbone_out_size = 16 * 16 * 128
+        backbone_out_size = 128
 
         proj_mlp = 256
         rep_size = proj_size
