@@ -10,3 +10,10 @@ The network is trained with "CIFAR-10" dataset.
 <p align = "center">
 Fig.1 - SimSiam Architecture
 </p>
+
+<p align = "center">
+<img src = "gMLP.png">
+</p>
+<p align = "center">
+Fig.2 - gMLP Architecture
+</p>
