@@ -5,3 +5,4 @@ The main idea is to use a Neural Network architecture with gMLP layers as the ba
 The network is trained with "CIFAR-10" dataset.
 
 ![Alt text](SimSiam.png?raw=true "Image")
+*SimSiam Architecture*
